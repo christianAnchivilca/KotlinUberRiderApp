@@ -1,0 +1,188 @@
+{
+  "project_info": {
+    "project_number": "872023539922",
+    "firebase_url": "https://ubermove-78570.firebaseio.com",
+    "project_id": "ubermove-78570",
+    "storage_bucket": "ubermove-78570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872023539922:android:f46093b4e8d0ae5a882d0b",
+        "android_client_info": {
+          "package_name": "com.christian.androiduberremake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872023539922-krvhqt2j36erok6npl7uk1f1v2uul06a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.christian.androiduberremake",
+            "certificate_hash": "00feb1848d629764ea0ffbb332cfed94ed4aed5d"
+          }
+        },
+        {
+          "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr56ceMdDVqIlwledXLkU5tzDV8P_aguQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872023539922:android:8a69dcb742af0d0e882d0b",
+        "android_client_info": {
+          "package_name": "com.christian.kotlinuberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872023539922-kdhd34ame6nhjc703et4pk7dhf4ncl4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.christian.kotlinuberclone",
+            "certificate_hash": "00feb1848d629764ea0ffbb332cfed94ed4aed5d"
+          }
+        },
+        {
+          "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr56ceMdDVqIlwledXLkU5tzDV8P_aguQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872023539922:android:8ed8287e7872f40d882d0b",
+        "android_client_info": {
+          "package_name": "com.christian.kotlinuberrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872023539922-igfns9e7bmp4ser5g0dr06bnlibhtlul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.christian.kotlinuberrider",
+            "certificate_hash": "00feb1848d629764ea0ffbb332cfed94ed4aed5d"
+          }
+        },
+        {
+          "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr56ceMdDVqIlwledXLkU5tzDV8P_aguQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872023539922:android:7465506f9c1580f4882d0b",
+        "android_client_info": {
+          "package_name": "com.christian.uberandroidremake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr56ceMdDVqIlwledXLkU5tzDV8P_aguQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872023539922:android:568dbc1ec0dd620d882d0b",
+        "android_client_info": {
+          "package_name": "com.example.kotlinriderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872023539922-u6ejev325sdoof5s8o63hg9kho2tfo3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlinriderapp",
+            "certificate_hash": "f6bac2eb3fc656af5515e31b6ed1a80eea3d12d9"
+          }
+        },
+        {
+          "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr56ceMdDVqIlwledXLkU5tzDV8P_aguQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872023539922-f3b3a9em8je2vjo6bft8rdsl217kdr95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

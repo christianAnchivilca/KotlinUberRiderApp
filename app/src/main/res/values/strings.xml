@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KotlinRiderApp</string>
+    <string name="sign_with_phone">Iniciar Sesion con el celular</string>
+    <string name="sign_with_google">Iniciar con Google</string>
 </resources>
